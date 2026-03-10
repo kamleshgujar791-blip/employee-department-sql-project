@@ -1,4 +1,4 @@
-mployee and Department Management System (SQL)
+Employee and Department Management System (SQL)
 📊 Project Overview
 
 The Employee and Department Management System is a SQL-based database project designed to manage employee and department information within an organization.
